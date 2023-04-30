@@ -12,8 +12,6 @@
 <p align="center">   <img src="https://i.imgur.com/esbJEg8.png"> </p>  
 
 # Summary
-
-- [Summary](#summary)
   - [Adding IP to the hosts file](#adding-ip-to-the-hosts-file)
   - [Nmap scan](#nmap-scan)
   - [Web Content Discovery](#web-content-discovery)
