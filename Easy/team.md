@@ -114,6 +114,7 @@ There are 3 directories found after the `gobuster` scan. The two directories `/a
 <br>
 
 The `/scripts` directory looks interesting but access is denied. 
+
 <img src="https://i.imgur.com/xXZkCOA.png">
 
 So I decide to run an enumeration of this directory by adding extensions with the command `-x` : 
@@ -212,6 +213,7 @@ It seems that there is another site on the web server. It would be available fro
 echo "10.10.111.15 dev.team.thm"|sudo tee -a /etc/hosts
 ```
 So I go to the URL `http://dev.team.thm/` :
+
 <img src="https://i.imgur.com/4nnIEbH.png">
 
 ## LFI exploit
