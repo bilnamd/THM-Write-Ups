@@ -84,7 +84,7 @@ I didn't find anything intresting in the source code of the home page :
 There is a file `robots.txt` which contains a string `dale` which seems to be a username : 
 <img src="https://i.imgur.com/mXp9G43.png">
 
-in the same time, I ran a `gobuster` scan to enumerate the web server :
+In the same time, I ran a `gobuster` scan to enumerate the web server :
 
 ```
 └─# gobuster dir -u http://team.thm -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 
