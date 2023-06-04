@@ -16,8 +16,8 @@
 - [Adding IP to the hosts file](#adding-ip-to-the-hosts-file)
 - [Nmap scan](#nmap-scan)
 - [Web content discovery](#web-content-discovery)
-- [FTP enumeration](#ftp-enumeration)
-- [LFI exploit](#lfi-exploit)
+- [Password cracking](#Password-cracking)
+- [XXE exploit](#xxe-exploit)
 - [User flag](#user-flag)
 - [Privilege escalation](#privilege-escalation)
 
