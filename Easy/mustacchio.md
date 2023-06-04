@@ -5,7 +5,8 @@
 **Key Topics, Techniques, and Tools** : <br>
  - Ports and Services scan : [nmap](https://nmap.org/)
  - Web content discovery : [gobuster](https://github.com/OJ/gobuster)
- - [Local File Inclusion vulnerability](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion)
+ - Password cracking : [john](https://www.openwall.com/john/doc/)
+ - [XML External Entity (XXE)](https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing)
  - Linux privileges escalation
  - Bash scripting 
 
